@@ -8,6 +8,8 @@ void setup() {
   int result = myFunction(2, 3);
 }
 
+teste1
+
 void loop() {
   // put your main code here, to run repeatedly:
 }
